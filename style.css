@@ -1,0 +1,45 @@
+body{
+    background-color:lavender;
+}
+.heading{
+    text-align: center;
+}
+#parent{
+    align-items: center;
+}
+
+table{
+    background-color:white;
+     margin-top: auto;
+    margin-bottom: auto;
+    margin-left: auto;
+    margin-right: auto;
+    align-items: center;
+    height:250px;
+    width: 250px;
+    border:solid black 2px ;
+}
+td{
+    font-size: 60px;
+    text-align: center;
+    height:70px;
+    width:70px;
+     border:solid black 2px ;
+}
+#start{
+   height:50px;
+    width:50px; 
+}
+#Restart{
+   height:50px;
+    width:90px; 
+}
+#status{
+    
+    align-items: center;
+}
+#p2{
+    margin-left: auto;
+    margin-right: auto;
+    align-items: center;
+}
